@@ -5,9 +5,6 @@
   Hi, I'm Xingnan Jiang, Computer Science Graduate Student @ Johns Hopkins University.
   <samp>
 
-    <!--https://socialify.git.ci/mcs-codes/tensorFlow-dev-algorithms/image?font=Bitter&forks=1&issues=1&language=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Dark -->
-<img align="right" src="assets/hobby.svg" height="310" />
-
 <h1> Hey There, I'm Mcvean 👋🏼 </h1>
 
 ## A few forms I assume ~
