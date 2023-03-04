@@ -4,9 +4,10 @@
   
 ### About Me
 
-<!-- :mortar_board: I'm a final-year engineering student at VESIT (University of Mumbai) <br> -->
-:superhero_man: M.S. Computer Science Student at Johns Hopkins University, Full-Stack Web / Mobile Development, Previously Working on Data Analysis and Tech Product Management/Operations, AWS Certified Cloud Engineer<br>
-:supervillain_man: Besides programming, you may find me at lifting weights, taking care of pets at pets rescue center, and doing road-trip somewhere<br>
+:superhero_man: M.S. Computer Science Student @ Whiting School of Engineering, Johns Hopkins University.<br>
+:raised_hands: Focusing on Full-Stack Web / Mobile Development (3.5 yrs), AWS Certified Cloud Engineer, Actively looking for Software Engineer Intern/New Grad Jobs. <br>
+:thinking: Past experience in Data Analysis, Interface Design and Tech Product Management/Operations before learning Computer Science.<br>
+:supervillain_man: Weights Lifting, Dogs, and road-trips are the things I like.<br>
 
 ### Summary
 <!-- <img align="right" src="assets/work.svg" height="350" /> -->
