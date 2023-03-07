@@ -6,4 +6,4 @@
 
 https://xingnanjiang.com/
 
-[[Link Text](https://xingnanjiang.com/)]([URL](https://xingnanjiang.com/)){:target="_blank" rel="noopener"}
+
