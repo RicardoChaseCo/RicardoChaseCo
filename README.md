@@ -7,3 +7,7 @@
 https://xingnanjiang.com/
 
 
+## Currently Working On
+* Django + Flask API integrating ML models for longevity Prediction
+* Next.js API references App
+* Learning testing
