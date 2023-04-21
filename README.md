@@ -6,9 +6,4 @@
 
 https://xingnanjiang.com/
 
-
-## Currently Working On
-* Django + Flask API integrating ML models for longevity Prediction
-* Next.js API references App
-* AI searching algorithms practice
-* Learning testing
+[![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoChaseCo)](https://github.com/anuraghazra/github-readme-stats)
