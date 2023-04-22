@@ -4,4 +4,6 @@
 
 https://xingnanjiang.com/
 
+## Stats
+
 [![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoChaseCo)](https://github.com/anuraghazra/github-readme-stats)
