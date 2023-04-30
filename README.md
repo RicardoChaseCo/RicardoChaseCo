@@ -34,7 +34,7 @@ const xingnan = {
         databases: ["mongoDB", "MySql", "Postgres", "Redis"],
         tools: ["Kafka", "Web Hosting", "npm", "yarn", "Git", "RPC"]
     },
-    architecture: ["Serverless", "Microservices", "SPA", "Static Sites"],
+    architecture: ["Serverless", "Microservices", "Distributed", "SPA", "Static Sites"],
     oneMonthPlan: ["Implement System Design using Java", "LeetCode 300+ using Python"]
 };
 ```
