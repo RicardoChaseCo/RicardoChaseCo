@@ -4,7 +4,7 @@ https://xingnanjiang.com/ <img src="https://emojis.slackmojis.com/emojis/images/
 
 ### More about me
 
-<p><em><b>Currently:</b> Web Developer Intern at Johns Hopkins Center for Integrative Learning and Life Design
+<p><em><b>Current:</b> Web Developer Intern at Johns Hopkins Center for Integrative Learning and Life Design
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <p><em><b>Previous:</b> Software Engineer Intern at Wicresoft and NEU(CN), Software Product Operations Intern at OPPO and Tencent <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
