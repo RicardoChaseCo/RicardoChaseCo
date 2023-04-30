@@ -1,14 +1,41 @@
-## My Personal Website
+### Personal Website 
+https://xingnanjiang.com/ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-https://xingnanjiang.com/
 
-## Stats
+### More about me
 
-[![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoChaseCo)](https://github.com/anuraghazra/github-readme-stats)
+<p><em><b>Currently:</b> Web Developer Intern at Johns Hopkins Center for Integrative Learning and Life Design
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+<p><em><b>Previous:</b> Software Engineer Intern at Wicresoft and NEU(CN), Software Product Operations Intern at OPPO and Tencent <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+<p><em>Computer Science graduate student at <a href="https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/">Whiting School of Engineering, Johns Hopkins University
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-## Stare at this snake to burn off today's tiredness
-![snake gif](https://github.com/RicardoChaseCo/RicardoChaseCo/blob/output/github-contribution-grid-snake.gif)
+```javascript
+const xingnan = {
+    pronouns: "He" | "Him",
+    programming: ["Python", "Javascript/TypeScript", "Java", "Matlab", "R", "HTML/CSS"],
+    domain: ["Web Dev", "Mobile Dev", "Data Analysis", "System Design", "Object-Oriented Design"],
+    technologies: {
+        backEnd: {
+            js: ["Node.js", "Express.js"],
+            py: ["Django", "Flask"]
+            java: ["SpringBoot", "SpringCloud"]
+        },
+        frontEnd: {
+            web: ["React", "Next.js", "Gastby"],
+            mobile: ["React Native"],
+            Styling: ["ChakraUI", "Tailwind CSS", "Bootstrap"]
+        },
+        devOps: ["AWS", "Docker", "Kubernetes", "CI/CD"],
+        testing: ["Jest", "Cypress"],
+        databases: ["mongoDB", "MySql", "Postgres", "Redis"],
+        tools: ["Kafka", "Web Hosting", "npm", "yarn", "Git", "RPC"]
+    },
+    architecture: ["Serverless", "Microservices", "SPA", "Static Sites"],
+    oneMonthPlan: ["Implement System Design using Java", "LeetCode 300+ using Python"]
+};
+```
   
-
-## Selected Projects
-👇👇👇
