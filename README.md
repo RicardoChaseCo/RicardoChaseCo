@@ -17,7 +17,6 @@ https://xingnanjiang.com/ <img src="https://emojis.slackmojis.com/emojis/images/
 const xingnan = {
     pronouns: "He" | "Him",
     programming: ["Python", "Javascript/TypeScript", "Java", "Matlab", "R", "HTML/CSS"],
-    domain: ["Web Dev", "Mobile Dev", "Data Analysis", "System Design", "Object-Oriented Design"],
     technologies: {
         backEnd: {
             js: ["Node.js", "Express.js"],
@@ -27,7 +26,7 @@ const xingnan = {
         frontEnd: {
             web: ["React", "Next.js", "Gastby"],
             mobile: ["React Native"],
-            Styling: ["ChakraUI", "Tailwind CSS", "Bootstrap"]
+            Styling: ["ChakraUI", "Tailwind CSS", "Bootstrap", "Styled Components"]
         },
         devOps: ["AWS", "Docker", "Kubernetes", "CI/CD"],
         testing: ["Jest", "Cypress"],
