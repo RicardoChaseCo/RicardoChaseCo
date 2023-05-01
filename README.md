@@ -9,7 +9,7 @@ https://xingnanjiang.com/ <img src="https://emojis.slackmojis.com/emojis/images/
 </em></p>
 <p><em><b>Previous:</b> Software Engineer Intern at Wicresoft and NEU(CN), Software Product Operations Intern at OPPO and Tencent <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<p><em>Computer Science graduate student at <a href="https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/">Whiting School of Engineering, Johns Hopkins University
+<p><em>Computer Science graduate student at <a href="https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/">Johns Hopkins University Whiting School of Engineering
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
