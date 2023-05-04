@@ -4,10 +4,10 @@ https://xingnanjiang.com/ <img src="https://emojis.slackmojis.com/emojis/images/
 
 ### More about me
 
-<p><em><b>Current:</b> Web Developer Intern</em> at Johns Hopkins Center for Integrative Learning and Life Design
+<p><b>Current:</b> <em>Web Developer Intern</em> at Johns Hopkins Center for Integrative Learning and Life Design
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
-<p><em><b>Previous:</b> Software Engineer Intern</em> at Wicresoft and NEU(CN), <em>Software Product Operations Intern</em> at OPPO and Tencent <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><b>Previous:</b> <em>Software Engineer Intern</em> at Wicresoft and NEU(CN), <em>Software Product Operations Intern</em> at OPPO and Tencent <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
 <p><em>Computer Science Master Student</em> at <a href="https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/">Johns Hopkins University Whiting School of Engineering
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
