@@ -16,7 +16,7 @@ https://xingnanjiang.com/ <img src="https://emojis.slackmojis.com/emojis/images/
 ```javascript
 const xingnan = {
     pronouns: "He" | "Him",
-    programming: ["Python", "Javascript/TypeScript", "Java", "Matlab", "R", "HTML/CSS"],
+    programming: ["Python", "Javascript/TypeScript", "Java", "Matlab", "R"],
     technologies: {
         backEnd: {
             js: ["Node.js", "Express.js"],
@@ -24,14 +24,14 @@ const xingnan = {
             java: ["SpringBoot", "SpringCloud"]
         },
         frontEnd: {
-            web: ["React", "Next.js", "Gastby"],
+            web: ["React", "Next.js", "Gastby", "HTML/CSS"],
             mobile: ["React Native"],
             Styling: ["ChakraUI", "Tailwind CSS", "Bootstrap", "Styled Components"]
         },
-        devOps: ["AWS", "Docker", "Kubernetes", "CI/CD"],
+        devOps: ["Docker", "Kubernetes", "CI/CD"],
         testing: ["Jest", "Cypress", "pytest", "React Testing Library"],
         databases: ["mongoDB", "MySql", "Postgres", "Redis"],
-        tools: ["Kafka", "Web Hosting", "npm", "yarn", "Git", "RPC"]
+        tools: ["Kafka", "AWS", "Web Hosting", "npm", "yarn", "Git", "RPC", "RabbitMQ", "Redis"]
     },
     architecture: ["Serverless", "Microservices", "Distributed", "SPA", "Static Sites"]
 };
