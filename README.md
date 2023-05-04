@@ -29,7 +29,7 @@ const xingnan = {
             Styling: ["ChakraUI", "Tailwind CSS", "Bootstrap", "Styled Components"]
         },
         devOps: ["AWS", "Docker", "Kubernetes", "CI/CD"],
-        testing: ["Jest", "Cypress"],
+        testing: ["Jest", "Cypress", "pytest", "React Testing Library"],
         databases: ["mongoDB", "MySql", "Postgres", "Redis"],
         tools: ["Kafka", "Web Hosting", "npm", "yarn", "Git", "RPC"]
     },
