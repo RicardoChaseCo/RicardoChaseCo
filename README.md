@@ -26,7 +26,7 @@ const xingnan = {
         frontEnd: {
             web: ["React", "Next.js", "Gastby", "HTML/CSS"],
             mobile: ["React Native"],
-            Styling: ["ChakraUI", "Tailwind CSS", "Bootstrap", "Styled Components"]
+            styling: ["ChakraUI", "Tailwind CSS", "Bootstrap", "Styled Components"]
         },
         devOps: ["Docker", "Kubernetes", "CI/CD"],
         testing: ["Jest", "Cypress", "pytest", "React Testing Library"],
