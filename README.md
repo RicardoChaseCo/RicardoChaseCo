@@ -16,7 +16,7 @@ https://xingnanjiang.com/ <img src="https://emojis.slackmojis.com/emojis/images/
 ```javascript
 const xingnan = {
     pronouns: "He" | "Him",
-    programming: ["Python", "Javascript/TypeScript", "Java", "Matlab", "R"],
+    programming: ["Python", "Javascript/TypeScript", "Java", "Swift", "Matlab", "R"],
     technologies: {
         backEnd: {
             js: ["Node.js", "Express.js"],
