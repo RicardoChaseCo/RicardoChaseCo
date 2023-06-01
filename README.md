@@ -14,13 +14,12 @@ https://xingnanjiang.com/ <img src="https://emojis.slackmojis.com/emojis/images/
 ```javascript
 const xingnan = {
     pronouns: "He" | "Him",
-    programming: ["Python", "Javascript/TypeScript", "Java", "Go", "SQL", "HTML/CSS"],
+    programming: ["Python", "Javascript/TypeScript", "Java", "SQL", "HTML/CSS"],
     technologies: {
         backEnd: {
             js: ["Node.js", "Express.js"],
             py: ["Django", "Flask"],
-            java: ["SpringBoot", "SpringCloud"],
-            go: ["Go-GORM"]
+            java: ["SpringBoot", "SpringCloud"]
         },
         frontEnd: {
             web: ["React", "Next.js", "Gastby", "HTML/CSS"],
