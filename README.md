@@ -4,12 +4,6 @@ https://xingnanjiang.com/ <img src="https://emojis.slackmojis.com/emojis/images/
 
 ### More about me
 
-<p><b>Current Company:</b> <em>IT Applications Development Intern</em> at Maryland Auto Insurance
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</p>
-<p><b>Current School:</b> <em>Computer Science Master Student</em> at <a href="https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/">Johns Hopkins University Whiting School of Engineering
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</p>
 
 ```javascript
 const xingnan = {
