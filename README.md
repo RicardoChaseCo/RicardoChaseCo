@@ -8,15 +8,16 @@ https://xingnanjiang.com/ <img src="https://emojis.slackmojis.com/emojis/images/
 ```javascript
 const xingnan = {
     pronouns: "He" | "Him",
-    programming: ["Python", "Javascript/TypeScript", "Java", "SQL", "HTML/CSS"],
+    programming: ["Python", "Java", "Javascript/TypeScript", “C#", "SQL", "HTML/CSS"],
     technologies: {
         backEnd: {
             js: ["Node.js", "Express.js"],
             py: ["Django", "Flask"],
-            java: ["SpringBoot", "SpringCloud"]
+            java: ["SpringBoot", "SpringCloud"],
+            csharp: ["ASP.NET"]
         },
         frontEnd: {
-            web: ["React", "Next.js", "Gastby", "HTML/CSS"],
+            web: ["React", "Next.js", "Gastby"],
             mobile: ["React Native"],
             styling: ["ChakraUI", "Tailwind CSS", "Bootstrap", "Styled Components"]
         },
