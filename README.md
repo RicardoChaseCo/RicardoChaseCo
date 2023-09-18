@@ -8,7 +8,7 @@ https://xingnanjiang.com/ <img src="https://emojis.slackmojis.com/emojis/images/
 ```javascript
 const xingnan = {
     pronouns: "He" | "Him",
-    programming: ["Python", "Java", "Javascript/TypeScript", “Csharp", "SQL", "HTML/CSS"],
+    programming: ["Python", "Java", "Javascript/TypeScript", "C#", "SQL", "HTML/CSS"],
     technologies: {
         backEnd: {
             js: ["Node.js", "Express.js"],
